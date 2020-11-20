@@ -1,5 +1,6 @@
 # ps_sysctl
 
-## to run
-g++ ps.cpp or gcc ps.cpp 
+## to run on OSX
+g++ ps.cpp or gcc ps.cpp
+
 ./a.out
